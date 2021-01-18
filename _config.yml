@@ -1,1 +1,12 @@
+# Site settings
+title: DocWhoMC
+email: docwhomc@gmail.com
+description: >-
+  DocW's website.
+baseurl: ""
+url: "https://docwhomc.github.io"
+twitter_username: docwhomc
+github_username:  docwhomc
+
+# Build settings
 theme: jekyll-theme-architect
